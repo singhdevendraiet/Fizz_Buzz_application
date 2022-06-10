@@ -37,7 +37,6 @@ class Number extends Component
             return (
             
                 <div>
-                    <div>I am test2</div>
                     {this.props.value }
                 </div> 
             );
